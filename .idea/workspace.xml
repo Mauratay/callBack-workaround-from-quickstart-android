@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be59a15a-6e38-433f-87d6-ec17c2b1bbb9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/admob/app/src/main/res/drawable/ic_launcher_big.png" beforeDir="false" afterPath="$PROJECT_DIR$/admob/app/src/main/res/drawable/ic_launcher_big.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admob/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/admob/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/analytics/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/analytics/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app-indexing/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/app-indexing/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/auth/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/PhoneAuthActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/PhoneAuthActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/TokenBroadcastReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/auth/app/src/main/java/com/google/firebase/quickstart/auth/java/TokenBroadcastReceiver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/auth/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/auth/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/auth/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build_pull_request.sh" beforeDir="false" afterPath="$PROJECT_DIR$/build_pull_request.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/config/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/copy_mock_google_services_json.sh" beforeDir="false" afterPath="$PROJECT_DIR$/copy_mock_google_services_json.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crash/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/crash/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/database/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamiclinks/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/dynamiclinks/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firestore/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/firestore/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firestore/test_setup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/firestore/test_setup.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/functions/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/test_setup.sh" beforeDir="false" afterPath="$PROJECT_DIR$/functions/test_setup.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inappmessaging/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/inappmessaging/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/chooserx/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/internal/chooserx/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/chooserx/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/internal/chooserx/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/chooserx/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/internal/chooserx/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/chooserx/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/internal/chooserx/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/chooserx/src/main/java/com/firebase/example/internal/BaseEntryChoiceActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/internal/chooserx/src/main/java/com/firebase/example/internal/BaseEntryChoiceActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/chooserx/src/main/java/com/firebase/example/internal/Choice.java" beforeDir="false" afterPath="$PROJECT_DIR$/internal/chooserx/src/main/java/com/firebase/example/internal/Choice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/chooserx/src/main/java/com/firebase/example/internal/ChoiceAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/internal/chooserx/src/main/java/com/firebase/example/internal/ChoiceAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/chooserx/src/main/res/layout/activity_entry_choice.xml" beforeDir="false" afterPath="$PROJECT_DIR$/internal/chooserx/src/main/res/layout/activity_entry_choice.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/chooserx/src/main/res/layout/item_choice.xml" beforeDir="false" afterPath="$PROJECT_DIR$/internal/chooserx/src/main/res/layout/item_choice.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/lint/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/internal/lint/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/lint/bin/main/com/firebase/lint/HungarianNotationDetector.kt" beforeDir="false" afterPath="$PROJECT_DIR$/internal/lint/bin/main/com/firebase/lint/HungarianNotationDetector.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/lint/bin/main/com/firebase/lint/InvalidImportDetector.kt" beforeDir="false" afterPath="$PROJECT_DIR$/internal/lint/bin/main/com/firebase/lint/InvalidImportDetector.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/lint/bin/main/com/firebase/lint/QuickstartIssueRegistry.kt" beforeDir="false" afterPath="$PROJECT_DIR$/internal/lint/bin/main/com/firebase/lint/QuickstartIssueRegistry.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/lint/bin/test/com/firebase/lint/InvalidImportDetectorTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/internal/lint/bin/test/com/firebase/lint/InvalidImportDetectorTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/lint/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/internal/lint/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/lint/src/main/java/com/firebase/lint/HungarianNotationDetector.kt" beforeDir="false" afterPath="$PROJECT_DIR$/internal/lint/src/main/java/com/firebase/lint/HungarianNotationDetector.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/lint/src/main/java/com/firebase/lint/InvalidImportDetector.kt" beforeDir="false" afterPath="$PROJECT_DIR$/internal/lint/src/main/java/com/firebase/lint/InvalidImportDetector.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/lint/src/main/java/com/firebase/lint/QuickstartIssueRegistry.kt" beforeDir="false" afterPath="$PROJECT_DIR$/internal/lint/src/main/java/com/firebase/lint/QuickstartIssueRegistry.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/lint/src/test/java/com/firebase/lint/InvalidImportDetectorTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/internal/lint/src/test/java/com/firebase/lint/InvalidImportDetectorTest.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/lintchecks/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/internal/lintchecks/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/lintchecks/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/internal/lintchecks/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/lintchecks/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/internal/lintchecks/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/internal/lintchecks/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/internal/lintchecks/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/messaging/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/messaging/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/assets/DandelionFlower.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/assets/DandelionFlower.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/assets/automl/dict.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/assets/automl/dict.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/assets/automl/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/assets/automl/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/assets/automl/model.tflite" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/assets/automl/model.tflite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/assets/labels.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/assets/labels.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/assets/mobilenet_float_v2_1.0_299.tflite" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/assets/mobilenet_float_v2_1.0_299.tflite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/assets/mobilenet_quant_v1_224.tflite" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/assets/mobilenet_quant_v1_224.tflite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/assets/mobilenet_quant_v2_1.0_299.tflite" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/assets/mobilenet_quant_v2_1.0_299.tflite" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/EntryChoiceActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/EntryChoiceActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/common/BitmapUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/common/BitmapUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/common/FrameMetadata.java" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/common/FrameMetadata.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/common/GraphicOverlay.java" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/common/GraphicOverlay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/common/VisionImageProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/common/VisionImageProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/StillImageActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/StillImageActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/VisionProcessorBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/VisionProcessorBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/cloudimagelabeling/CloudImageLabelingProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/cloudimagelabeling/CloudImageLabelingProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/cloudimagelabeling/CloudLabelGraphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/cloudimagelabeling/CloudLabelGraphic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/cloudlandmarkrecognition/CloudLandmarkGraphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/cloudlandmarkrecognition/CloudLandmarkGraphic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/cloudlandmarkrecognition/CloudLandmarkRecognitionProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/cloudlandmarkrecognition/CloudLandmarkRecognitionProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/cloudtextrecognition/CloudDocumentTextGraphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/cloudtextrecognition/CloudDocumentTextGraphic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/cloudtextrecognition/CloudDocumentTextRecognitionProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/cloudtextrecognition/CloudDocumentTextRecognitionProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/cloudtextrecognition/CloudTextGraphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/cloudtextrecognition/CloudTextGraphic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/cloudtextrecognition/CloudTextRecognitionProcessor.java" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/cloudtextrecognition/CloudTextRecognitionProcessor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/labeldetector/LabelGraphic.java" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/java/labeldetector/LabelGraphic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/StillImageActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/StillImageActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/VisionProcessorBase.kt" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/VisionProcessorBase.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/cloudimagelabeling/CloudImageLabelingProcessor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/cloudimagelabeling/CloudImageLabelingProcessor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/cloudimagelabeling/CloudLabelGraphic.kt" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/cloudimagelabeling/CloudLabelGraphic.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/cloudlandmarkrecognition/CloudLandmarkGraphic.kt" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/cloudlandmarkrecognition/CloudLandmarkGraphic.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/cloudlandmarkrecognition/CloudLandmarkRecognitionProcessor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/cloudlandmarkrecognition/CloudLandmarkRecognitionProcessor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/cloudtextrecognition/CloudDocumentTextGraphic.kt" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/cloudtextrecognition/CloudDocumentTextGraphic.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/cloudtextrecognition/CloudDocumentTextRecognitionProcessor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/cloudtextrecognition/CloudDocumentTextRecognitionProcessor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/cloudtextrecognition/CloudTextGraphic.kt" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/cloudtextrecognition/CloudTextGraphic.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/cloudtextrecognition/CloudTextRecognitionProcessor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/cloudtextrecognition/CloudTextRecognitionProcessor.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/labeldetector/LabelGraphic.kt" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/java/com/google/firebase/samples/apps/mlkit/kotlin/labeldetector/LabelGraphic.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-hdpi/ic_action_info.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-hdpi/ic_action_info.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-hdpi/ic_switch_camera_white_48dp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-hdpi/ic_switch_camera_white_48dp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-hdpi/ic_switch_camera_white_48dp_inset.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-hdpi/ic_switch_camera_white_48dp_inset.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-hdpi/tile.9.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-hdpi/tile.9.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-mdpi/ic_action_info.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-mdpi/ic_action_info.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-mdpi/ic_switch_camera_white_48dp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-mdpi/ic_switch_camera_white_48dp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-mdpi/ic_switch_camera_white_48dp_inset.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-mdpi/ic_switch_camera_white_48dp_inset.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-xhdpi/ic_action_info.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-xhdpi/ic_action_info.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-xhdpi/ic_switch_camera_white_48dp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-xhdpi/ic_switch_camera_white_48dp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-xhdpi/ic_switch_camera_white_48dp_inset.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-xhdpi/ic_switch_camera_white_48dp_inset.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-xxhdpi/ic_action_info.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-xxhdpi/ic_action_info.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-xxhdpi/ic_switch_camera_white_48dp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-xxhdpi/ic_switch_camera_white_48dp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-xxhdpi/ic_switch_camera_white_48dp_inset.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-xxhdpi/ic_switch_camera_white_48dp_inset.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-xxxhdpi/ic_switch_camera_white_48dp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-xxxhdpi/ic_switch_camera_white_48dp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-xxxhdpi/ic_switch_camera_white_48dp_inset.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable-xxxhdpi/ic_switch_camera_white_48dp_inset.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable/clown_nose.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable/clown_nose.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/layout/activity_chooser.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/layout/activity_chooser.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/layout/activity_still_image.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/layout/activity_still_image.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/layout/spinner_style.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/layout/spinner_style.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/layout/toggle_style.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/layout/toggle_style.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/menu/camera_button_menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/menu/camera_button_menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/app/src/screen.png" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/app/src/screen.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mlkit/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/mlkit/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/perf/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/perf/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/checksnippets.py" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/checksnippets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/storage/gradlew" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mjUHcM4FciyP6t0deMaGOeZ5b2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/auth" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be59a15a-6e38-433f-87d6-ec17c2b1bbb9" name="Default Changelist" comment="" />
+      <created>1610006410179</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610006410179</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="112" width="424" height="479" key="FileChooserDialogImpl" timestamp="1610009921972">
+      <screen x="0" y="0" width="1360" height="708" />
+    </state>
+    <state x="463" y="112" width="424" height="479" key="FileChooserDialogImpl/0.0.1360.708@0.0.1360.708" timestamp="1610009921972" />
+  </component>
+</project>
